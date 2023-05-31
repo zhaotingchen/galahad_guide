@@ -1,4 +1,0 @@
-Guide to galahad (and slurm in general)
-========================================
-
-This repo contains a simple guide on how to use `jupyter <https://jupyter.org/>`_ on *galahad*, which also touches a little bit on `slurm <https://slurm.schedmd.com/documentation.html>`_. Just [click on the file](jupyter_on_galahad.md) and read it.
